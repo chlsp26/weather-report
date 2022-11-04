@@ -1,0 +1,11 @@
+.Temperature{
+    font-size: 40px;
+}
+
+.WeatherCode{
+    font-size: 15px;
+}
+
+.backButton:hover{
+    cursor: pointer;
+}
